@@ -1,0 +1,46 @@
+img {
+/*	display: block;*/
+	margin: 0 auto;
+	padding-right: 20px;
+	
+}
+
+
+ h1{
+ 	text-align: right;
+ 	float: center;
+ 	padding-top: 60px;
+ 	color: white;
+
+ }
+
+#container {
+	width: 800px;
+	margin: 0 auto;
+	font-family: Arial;
+
+}
+
+
+#header {
+	width: 100%;
+	height: 1px;
+	background: #C30ACC;
+	float: center;
+	
+
+}
+
+#about {
+	width: 790px;
+	float: top;
+	text-align: justify;
+	padding-top: 60px;
+
+}
+
+#history {
+	width: 790px;
+	float: bottom;
+	text-align: justify;
+}
